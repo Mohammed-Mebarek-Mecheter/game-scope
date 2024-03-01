@@ -1,4 +1,5 @@
 altair
+plotly
 numpy
 pandas
 pydeck
