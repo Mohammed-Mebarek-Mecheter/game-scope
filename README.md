@@ -2,6 +2,8 @@
 
 Welcome to the Game-Scope Streamlit app! This app allows you to explore and analyze data related to video games, including top-selling games, critic scores, user scores, and sales analysis.
 
+![Game-Scope Streamlit App](dashboard.PNG)
+
 ## How to Use
 1. **Navigation:** Use the sidebar on the left to navigate between different pages:
    - **Top Selling Games:** View the top-selling games based on total shipments.
